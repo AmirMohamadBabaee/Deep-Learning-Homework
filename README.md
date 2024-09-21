@@ -1,4 +1,4 @@
-# Deep Learning Homework Solutions
+# Deep Learning Homework Course - Homework Solutions
 
 ## Table of Contents
 
